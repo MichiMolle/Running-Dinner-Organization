@@ -1,0 +1,22 @@
+Hallo #VORNAME#,
+
+Wir freuen uns auf deine Teilnahme am Running-Dinner am DATUM!
+
+Los geht das Running-Dinner für dich und #PARTNER# mit
+der Vorspeise um 19 Uhr bei #VORSPEISENAME#
+Adresse: "#VORSPEISEADRESSE#"
+
+Dann geht es weiter mit der Hauptspeise um 20:15 bei #HAUPTGANGNAME#
+Adresse: "#HAUPTGANGADRESSE#"
+
+Zum Dessert seid ihr schließlich um 21:45 Uhr bei #DESSERTNAME#
+Adresse: "#DESSERTADRESSE#"
+
+Ab 23 Uhr sind die Pforten der Abschluss-Dinner-Party in der LOCATION für euch geöffnet. Bitte kommt möglichst bald, damit sich die Party schnell füllt und keiner der Gäste länger den Einlass übernehmen muss. Der Eintritt beträgt 4 Euro und hier habt ihr die Möglichkeit endlich alle wiederzusehen und gemeinsam zu feiern.
+
+Bitte beachtet bei der Zubereitung eures Gangs auf die folgenden Essgewohnheiten und Allergien eurer Gäste:
+#ESSGEWOHNHEITEN#
+#ALLERGIEN#
+
+Bei Rückfragen könnt ihr euch jederzeit gerne an die VERANSTALTER wenden!
+Euer Orga -Team
